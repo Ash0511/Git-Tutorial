@@ -1,2 +1,2 @@
 console.log('inside.js');
-console.log('version2');
+console.log('version12');
